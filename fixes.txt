@@ -1,1 +1,3 @@
-this is a fix File
+this is a fix 
+fix bug
+fix another bug
